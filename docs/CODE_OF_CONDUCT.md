@@ -28,14 +28,15 @@ The following conduct is unacceptable and will result in up to three strikes, de
 
 ## Warnings and Punishments
 Accumulating three warnings will result in a repository ban. The Developer issuing the ban may optionally ban the violating contributor from development channels in Discord for the duration of their repository ban.
-Warnings expire in six months from the date of warning.
-**Severe violations of this code of conduct may result in community or game server bans.**
+Warnings expire in six months from the date of warning, Maintainers and the Head Developer may overrule this.
+**Severe violations of this code of conduct may result in community or even game server bans as to be decided by the Head Developer and Administration.**
 
 * The first issued ban against your account will result in a **one week ban**, which may be appealed after four days.
 * The second issued ban against your account will result in a **one month ban**, which may be appealed after two weeks.
 * The third issued ban against your account will result in a **permanent ban**, which may be appealed after one month.
 * Every subsequent ban will result in a permanent ban until appeal as described above.
     * Fully serving or successfully appealing a ban will remove the oldest warning, resulting in two.
+* The above punishments are just rough overviews, Maintainers or the Head Developer may change the length of a ban.
 
 
 ## Developer Responsibilities
@@ -64,8 +65,9 @@ Modifications to this code of conduct may be made by any contributor by way of a
 
 
 ## Attribution
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
+This Code of Conduct is adapted from the [NebulaSS13 Code of Conduct][nebulaconduct] which is an edited version from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
 
+[nebulaconduct]: http://github.com/NebulaSS13/Nebula/blob/dev/docs/CODE_OF_CONDUCT.md
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
 
