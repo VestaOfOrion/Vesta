@@ -481,7 +481,7 @@ var/global/list/valid_bloodtypes = list("A+", "A-", "B+", "B-", "AB+", "AB-", "O
 
 	else if(href_list["limbs"])
 
-		var/list/limb_selection_list = list("Left Leg","Right Leg","Left Arm","Right Arm","Left Foot","Right Foot","Left Hand","Right Hand")
+		var/list/limb_selection_list = list("Left Leg","Right Leg","Left Arm","Right Arm","Left Foot","Right Foot","Left Hand","Right Hand", "Head", "Full Body")
 		var/organ_tag = input(user, "Which limb do you want to change?") as null|anything in limb_selection_list
 		if(!organ_tag || !CanUseTopic(user)) return TOPIC_NOACTION
 
@@ -516,6 +516,13 @@ var/global/list/valid_bloodtypes = list("A+", "A-", "B+", "B-", "AB+", "AB-", "O
 			if("Right Hand")
 				limb = BP_R_HAND
 				third_limb = BP_R_ARM
+			if("Head")
+				limb =        BP_HEAD
+				choice_options = list("Prosthesis")
+			if("Full Body")
+				limb =        BP_CHEST
+				third_limb =  BP_GROIN
+				choice_options = list("Normal","Prosthesis")
 
 		var/new_state = input(user, "What state do you wish the limb to be in?") as null|anything in choice_options
 		if(!new_state || !CanUseTopic(user)) return TOPIC_NOACTION
