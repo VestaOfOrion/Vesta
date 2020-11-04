@@ -3267,9 +3267,5 @@
 #include "maps\~mapsystem\maps_unit_testing.dm"
 #include "maps\~unit_tests\unit_testing.dm"
 #include "mods\_modpack.dm"
-#include "mods\ipc\ipc.dm"
-#include "mods\ipc\datums\codex.dm"
-#include "mods\ipc\datums\culture.dm"
-#include "mods\ipc\datums\species.dm"
 #include "~code\global_init.dm"
 // END_INCLUDE
