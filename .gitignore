@@ -48,7 +48,3 @@ lib/*.so
 # python
 *.pyc
 __pycache__
-config/example/admin_ranks.txt
-config/example/admin_ranks.txt
-config/example/admins.txt
-config/example/config.txt
