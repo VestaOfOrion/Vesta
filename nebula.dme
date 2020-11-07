@@ -3272,8 +3272,6 @@
 #include "mods\general_content\mob_defines.dm"
 #include "mods\general_content\music.dm"
 #include "mods\general_content\species_overwrite.dm"
-#include "mods\general_content\decals\damagecontrol.dm"
-#include "mods\general_content\machinery\thermal_fusion.dm"
 #include "mods\general_content\organs\internal\skrell\Eyes.dm"
 #include "mods\general_content\organs\internal\skrell\gills.dm"
 #include "mods\general_content\organs\internal\unathi\eyes.dm"
