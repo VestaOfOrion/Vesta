@@ -1,5 +1,3 @@
-/music_track/wolf
-
 /music_track/wolf/great_expectations
 	artist = "Kai Engel"
 	title = "Great Expectations"
