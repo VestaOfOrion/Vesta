@@ -2,6 +2,7 @@
 
 	#include "../../mods/corporate/_corporate.dme"
 	#include "../../mods/ascent/_ascent.dme"
+	#include "../../mods/ranks/_ranks.dme"
 
 	#include "../../mods/government/away_sites/icarus/icarus.dm"
 	#include "../../mods/government/ruins/ec_old_crash/ec_old_crash.dm"
@@ -39,7 +40,7 @@
 	#include "jobs/_jobs.dm"
 	#include "jobs/command.dm"
 	#include "jobs/engineering.dm"
-	#include "jobs/medical.dm"
+	//#include "jobs/medical.dm"
 	#include "jobs/science.dm"
 	#include "outfits/_outfits.dm"
 	#include "outfits/command.dm"

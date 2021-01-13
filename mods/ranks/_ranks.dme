@@ -1,0 +1,18 @@
+#ifndef MODPACK_RANKS
+#define MODPACK_RANKS
+// Begin Includes
+#include "ranks.dm"
+#include "tradeship_ranks.dm"
+#include "rank_tabs.dm"
+#include "jobs\medical.dm"
+// End Includes
+#endif
+// BEGIN_INTERNALS
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+// BEGIN_INCLUDE
+// END_INCLUDE
