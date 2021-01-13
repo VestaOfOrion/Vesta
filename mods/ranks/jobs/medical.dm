@@ -16,14 +16,14 @@
 	)
 	min_skill = list(
 		SKILL_LITERACY  = SKILL_ADEPT,
-	    SKILL_MEDICAL   = SKILL_EXPERT,
-	    SKILL_ANATOMY   = SKILL_EXPERT,
-	    SKILL_CHEMISTRY = SKILL_BASIC
+		SKILL_MEDICAL   = SKILL_EXPERT,
+		SKILL_ANATOMY   = SKILL_EXPERT,
+		SKILL_CHEMISTRY = SKILL_BASIC
 	)
 	max_skill = list(
 		SKILL_MEDICAL   = SKILL_MAX,
-	    SKILL_ANATOMY   = SKILL_MAX,
-	    SKILL_CHEMISTRY = SKILL_MAX
+		SKILL_ANATOMY   = SKILL_MAX,
+		SKILL_CHEMISTRY = SKILL_MAX
 	)
 	minimal_player_age = 3
 	total_positions = 5
@@ -111,4 +111,3 @@
 	)
 	minimal_player_age = 14
 	ideal_character_age = 50
-   
