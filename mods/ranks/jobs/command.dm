@@ -87,9 +87,11 @@
 	total_positions = 1
 	spawn_positions = 1
 	allowed_branches = list(
-		/datum/mil_branch/fed_armsmen
+		/datum/mil_branch/civilian,
+		/datum/mil_branch/fed_armsmen = /decl/hierarchy/outfit/job/tradeship/mate/armsmen
 	)
 	allowed_ranks = list(
+		/datum/mil_rank/civ/civ,
 		/datum/mil_rank/arm/o4,
 		/datum/mil_rank/arm/o5
 	)

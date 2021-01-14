@@ -43,8 +43,8 @@
 	#include "jobs/medical.dm"
 	#include "jobs/science.dm"
 */	
-	#include "outfits/_outfits.dm"
-	#include "outfits/command.dm"
+	//#include "outfits/_outfits.dm"
+	//#include "outfits/command.dm"
 	#include "outfits/engineering.dm"
 	#include "outfits/medical.dm"
 	#include "outfits/science.dm"

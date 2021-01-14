@@ -1,16 +1,26 @@
 #ifndef MODPACK_RANKS
 #define MODPACK_RANKS
 // Begin Includes
+
+#include "datums\uniforms.dm"
+
 #include "ranks.dm"
+#include "rank_tabs.dm"
+
 #include "tradeship_define.dm"
 #include "tradeship_ranks.dm"
 #include "tradeship_jobs.dm"
-#include "rank_tabs.dm"
+
 #include "jobs\command.dm"
 #include "jobs\medical.dm"
 #include "jobs\engineering.dm"
 #include "jobs\science.dm"
+#include "jobs\outfits\_outfits.dm"
+#include "jobs\outfits\command.dm"
+
+//#include "uniform_vendor.dm"
 #include "clothing\armsmen-under.dm"
+
 // End Includes
 #endif
 // BEGIN_INTERNALS
