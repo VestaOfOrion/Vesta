@@ -7,13 +7,12 @@
 	outfit_type = /decl/hierarchy/outfit/job/tradeship/hand/engine
 	department_refs = list(DEPT_ENGINEERING)
 	allowed_branches = list(
-		/datum/mil_branch/expeditionary_corps,
 		/datum/mil_branch/fed_armsmen
 	)
 	allowed_ranks = list(
-		/datum/mil_rank/ec/o3,
 		/datum/mil_rank/arm/e4,
-		/datum/mil_rank/arm/e7
+		/datum/mil_rank/arm/e5,
+		/datum/mil_rank/arm/e6
 	)
 	total_positions = 8
 	spawn_positions = 7
@@ -118,13 +117,11 @@
 	supervisors = "the Captain"
 	outfit_type = /decl/hierarchy/outfit/job/tradeship/chief_engineer
 	allowed_branches = list(
-		/datum/mil_branch/expeditionary_corps,
 		/datum/mil_branch/fed_armsmen
 	)
 	allowed_ranks = list(
-		/datum/mil_rank/ec/o3,
-		/datum/mil_rank/arm/e4,
-		/datum/mil_rank/arm/e7
+		/datum/mil_rank/arm/o2,
+		/datum/mil_rank/arm/o3
 	)
 	min_skill = list(
 		SKILL_LITERACY     = SKILL_ADEPT,

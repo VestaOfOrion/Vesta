@@ -5,7 +5,7 @@
 	w_class = ITEM_SIZE_TINY
 
 /*********
-ranks - ec
+ranks - general
 *********/
 
 /obj/item/clothing/accessory/solgov/rank
@@ -21,56 +21,6 @@ ranks - ec
 /obj/item/clothing/accessory/solgov/rank/get_fibers()
 	return null
 
-/obj/item/clothing/accessory/solgov/rank/ec
-	name = "explorer ranks"
-	desc = "Insignia denoting rank of some kind. These appear blank."
-	icon_state = "ecrank_e1"
-	on_rolled = list("down" = "none")
-
-/obj/item/clothing/accessory/solgov/rank/ec/enlisted
-	name = "ranks (E-1 apprentice explorer)"
-	desc = "Insignia denoting the rank of Apprentice Explorer."
-	icon_state = "ecrank_e1"
-
-/obj/item/clothing/accessory/solgov/rank/ec/enlisted/e3
-	name = "ranks (E-3 explorer)"
-	desc = "Insignia denoting the rank of Explorer."
-	icon_state = "ecrank_e3"
-
-/obj/item/clothing/accessory/solgov/rank/ec/enlisted/e5
-	name = "ranks (E-5 senior explorer)"
-	desc = "Insignia denoting the rank of Senior Explorer."
-	icon_state = "ecrank_e5"
-
-/obj/item/clothing/accessory/solgov/rank/ec/enlisted/e7
-	name = "ranks (E-7 chief explorer)"
-	desc = "Insignia denoting the rank of Chief Explorer."
-	icon_state = "ecrank_e7"
-
-/obj/item/clothing/accessory/solgov/rank/ec/officer
-	name = "ranks (O-1 ensign)"
-	desc = "Insignia denoting the rank of Ensign."
-	icon_state = "ecrank_o1"
-
-/obj/item/clothing/accessory/solgov/rank/ec/officer/o3
-	name = "ranks (O-3 lieutenant)"
-	desc = "Insignia denoting the rank of Lieutenant."
-	icon_state = "ecrank_o3"
-
-/obj/item/clothing/accessory/solgov/rank/ec/officer/o5
-	name = "ranks (O-5 commander)"
-	desc = "Insignia denoting the rank of Commander."
-	icon_state = "ecrank_o5"
-
-/obj/item/clothing/accessory/solgov/rank/ec/officer/o6
-	name = "ranks (O-6 captain)"
-	desc = "Insignia denoting the rank of Captain."
-	icon_state = "ecrank_o6"
-
-/obj/item/clothing/accessory/solgov/rank/ec/officer/o8
-	name = "ranks (O-8 admiral)"
-	desc = "Insignia denoting the rank of Admiral."
-	icon_state = "ecrank_o8"
 //////////////////////
 //Federation Armsmen//
 //////////////////////
@@ -162,7 +112,7 @@ ranks - ec
 	desc = "Insignia denoting the rank of Adjutant."
 	icon_state = "arm_o6"
 
-/obj/item/clothing/accessory/solgov/rank/arm/officer/o8
+/obj/item/clothing/accessory/solgov/rank/arm/officer/o7
 	name = "ranks (O-7 Regiment Commandant)"
 	desc = "Insignia denoting the rank of Regiment Commandant."
 	icon_state = "arm_o7"
@@ -178,7 +128,7 @@ ranks - ec
 	icon_state = "arm_o9"
 
 /obj/item/clothing/accessory/solgov/rank/arm/officer/o10
-	name = "ranks (O-10 High Commandant of the Federation Armsmen )"
+	name = "ranks (O-10 High Commandant of the Federation Armsmen)"
 	desc = "Insignia denoting the rank of High Commandant of the Federation Armsmen ."
 	icon_state = "arm_o10"
 //

@@ -9,11 +9,9 @@
 	skill_points = 24
 	hud_icon = "hudmedicaldoctor"
 	allowed_branches = list(
-		/datum/mil_branch/expeditionary_corps,
 		/datum/mil_branch/fed_armsmen
 	)
 	allowed_ranks = list(
-		/datum/mil_rank/ec/e7,
 		/datum/mil_rank/arm/e2,
 		/datum/mil_rank/arm/e3,
 	)
@@ -71,13 +69,10 @@
 	req_admin_notify = 1
 	economic_power = 10
 	allowed_branches = list(
-		/datum/mil_branch/expeditionary_corps,
 		/datum/mil_branch/fed_armsmen
 	)
 	allowed_ranks = list(
-		/datum/mil_rank/ec/o3,
-		/datum/mil_rank/arm/e4,
-		/datum/mil_rank/arm/e7
+		/datum/mil_rank/arm/o2
 	)
 	access = list(
 		access_medical,

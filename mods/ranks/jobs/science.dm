@@ -5,13 +5,10 @@
 	spawn_positions = 1
 	alt_titles = list()
 	allowed_branches = list(
-		/datum/mil_branch/expeditionary_corps,
 		/datum/mil_branch/fed_armsmen
 	)
 	allowed_ranks = list(
-		/datum/mil_rank/ec/o3,
-		/datum/mil_rank/arm/e4,
-		/datum/mil_rank/arm/e7
+		/datum/mil_rank/arm/o1
 	)	
 	outfit_type = /decl/hierarchy/outfit/job/tradeship/hand/researcher/junior
 	min_skill = list(
@@ -56,13 +53,11 @@
 	total_positions = 1
 	alt_titles = list()
 	allowed_branches = list(
-		/datum/mil_branch/expeditionary_corps,
 		/datum/mil_branch/fed_armsmen
 	)
 	allowed_ranks = list(
-		/datum/mil_rank/ec/o3,
-		/datum/mil_rank/arm/e4,
-		/datum/mil_rank/arm/e7
+		/datum/mil_rank/arm/o1,
+		/datum/mil_rank/arm/o2
 	)
 	outfit_type = /decl/hierarchy/outfit/job/tradeship/hand/researcher
 	min_skill = list(
