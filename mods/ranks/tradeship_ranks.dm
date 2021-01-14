@@ -185,59 +185,59 @@
 	name = "Cadet"
 	name_short = "CAD"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/officer)
-	sort_order = 1
+	sort_order = 11
 
 /datum/mil_rank/arm/o2
 	name = "Sub-Lieutenant"
 	name_short = "SLT"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/officer/o2)
-	sort_order = 2
+	sort_order = 12
 
 /datum/mil_rank/arm/o3
 	name = "Lieutenant"
 	name_short = "LT"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/officer/o3)
-	sort_order = 3
+	sort_order = 13
 
 /datum/mil_rank/arm/o4
 	name = "Senior-Lieutenant"
 	name_short = "SELT"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/officer/o4)
-	sort_order = 4
+	sort_order = 14
 
 /datum/mil_rank/arm/o5
 	name = "Sub-Adjutant"
 	name_short = "SADJ"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/officer/o5)
-	sort_order = 5
+	sort_order = 15
 
 /datum/mil_rank/arm/o6
-	name = "Sub-Adjutant"
+	name = "Adjutant"
 	name_short = "ADJ"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/officer/o6)
-	sort_order = 6
+	sort_order = 16
 
 /datum/mil_rank/arm/o7
 	name = "Regiment Commandant"
 	name_short = "RCMD"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/officer/o7)
-	sort_order = 7
+	sort_order = 17
 
 /datum/mil_rank/arm/o8
-	name = "Regiment Commandant"
-	name_short = "DCMD"
+	name = "Brigade Commandant"
+	name_short = "BCMD"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/officer/o8)
-	sort_order = 8
+	sort_order = 18
 
 /datum/mil_rank/arm/o9
 	name = "Armsman Commandant"
 	name_short = "ARMCMD"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/officer/o9)
-	sort_order = 9
+	sort_order = 19
 
 /datum/mil_rank/arm/o10
 	name = "High Commandant of the Federation Armsmen"
 	name_short = "HCMDFA"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/officer/o10)
-	sort_order = 10
+	sort_order = 20
 //	

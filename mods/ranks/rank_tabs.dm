@@ -1,7 +1,7 @@
 /obj/item/clothing/accessory/solgov
 	name = "master solgov accessory"
-	icon = 'mods/ranks/icons/obj_accessories_solgov.dmi'
-	accessory_icons = list(slot_w_uniform_str = 'mods/ranks/icons/mob/onmob_accessories_solgov.dmi', slot_wear_suit_str = 'mods/ranks/icons/mob/onmob_accessories_solgov.dmi')
+	icon = 'mods/ranks/icons/obj_accessories_uniform.dmi'
+	accessory_icons = list(slot_w_uniform_str = 'mods/ranks/icons/mob/onmob_accessories_uniform.dmi', slot_wear_suit_str = 'mods/ranks/icons/mob/onmob_accessories_uniform.dmi')
 	w_class = ITEM_SIZE_TINY
 
 /*********
@@ -118,8 +118,8 @@ ranks - general
 	icon_state = "arm_o7"
 
 /obj/item/clothing/accessory/solgov/rank/arm/officer/o8
-	name = "ranks (O-8 Division Commandant)"
-	desc = "Insignia denoting the rank of Division Commandant."
+	name = "ranks (O-8 Brigade Commandant)"
+	desc = "Insignia denoting the rank of Brigade Commandant."
 	icon_state = "arm_o8"
 
 /obj/item/clothing/accessory/solgov/rank/arm/officer/o9
