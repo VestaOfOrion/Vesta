@@ -120,122 +120,122 @@
  *  =====
  */
  //Enlisted
- /datum/mil_rank/arm/e1
+/datum/mil_rank/arm/e1
 	name = "Junior Armsman"
 	name_short = "JARM"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/enlisted)
 	sort_order = 1
 
- /datum/mil_rank/arm/e2
- 	name = "Armsman Basic"
+/datum/mil_rank/arm/e2
+	name = "Armsman Basic"
 	name_short = "ARMB"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/enlisted/e2)
 	sort_order = 2
 
- /datum/mil_rank/arm/e3
+/datum/mil_rank/arm/e3
 	name = "Armsman"
 	name_short = "ARM"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/enlisted/e3)
 	sort_order = 3
 
- /datum/mil_rank/arm/e4
+/datum/mil_rank/arm/e4
 	name = "Senior Armsman"
 	name_short = "SARM"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/enlisted/e4)
 	sort_order = 4
 
- /datum/mil_rank/arm/e5
- 	name = "Staff Armsman"
+/datum/mil_rank/arm/e5
+	name = "Staff Armsman"
 	name_short = "STARM"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/enlisted/e5)
 	sort_order = 5
 
- /datum/mil_rank/arm/e6
- 	name = "Chief Armsman"
+/datum/mil_rank/arm/e6
+	name = "Chief Armsman"
 	name_short = "CARM"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/enlisted/e6)
 	sort_order = 6
 
- /datum/mil_rank/arm/e7
- 	name = "Master Armsman"
+/datum/mil_rank/arm/e7
+	name = "Master Armsman"
 	name_short = "MARM"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/enlisted/e7)
 	sort_order = 7
 
- /datum/mil_rank/arm/e8
- 	name = "Chief Master Armsman"
+/datum/mil_rank/arm/e8
+	name = "Chief Master Armsman"
 	name_short = "CHMARM"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/enlisted/e8)
 	sort_order = 8
 
- /datum/mil_rank/arm/e9
- 	name = "Command Master Armsman"
+/datum/mil_rank/arm/e9
+	name = "Command Master Armsman"
 	name_short = "COMARM"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/enlisted/e9)
 	sort_order = 9
 
- /datum/mil_rank/arm/e10
- 	name = "Command Master Armsman of the Federation"
+/datum/mil_rank/arm/e10
+	name = "Command Master Armsman of the Federation"
 	name_short = "COMARMOF"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/enlisted/e10)
 	sort_order = 10
 //
 //Officer
- /datum/mil_rank/arm/o1
+/datum/mil_rank/arm/o1
 	name = "Cadet"
 	name_short = "CAD"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/officer)
 	sort_order = 1
 
- /datum/mil_rank/arm/o2
+/datum/mil_rank/arm/o2
 	name = "Sub-Lieutenant"
 	name_short = "SLT"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/officer/o2)
 	sort_order = 2
 
- /datum/mil_rank/arm/o3
+/datum/mil_rank/arm/o3
 	name = "Lieutenant"
 	name_short = "LT"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/officer/o3)
 	sort_order = 3
 
- /datum/mil_rank/arm/o4
+/datum/mil_rank/arm/o4
 	name = "Senior-Lieutenant"
 	name_short = "SELT"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/officer/o4)
 	sort_order = 4
 
- /datum/mil_rank/arm/o5
+/datum/mil_rank/arm/o5
 	name = "Sub-Adjutant"
 	name_short = "SADJ"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/officer/o5)
 	sort_order = 5
 
- /datum/mil_rank/arm/o6
+/datum/mil_rank/arm/o6
 	name = "Sub-Adjutant"
 	name_short = "ADJ"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/officer/o6)
 	sort_order = 6
 
- /datum/mil_rank/arm/o7
+/datum/mil_rank/arm/o7
 	name = "Regiment Commandant"
 	name_short = "RCMD"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/officer/o7)
 	sort_order = 7
 
- /datum/mil_rank/arm/o8
+/datum/mil_rank/arm/o8
 	name = "Regiment Commandant"
 	name_short = "DCMD"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/officer/o8)
 	sort_order = 8
 
- /datum/mil_rank/arm/o9
+/datum/mil_rank/arm/o9
 	name = "Armsman Commandant"
 	name_short = "ARMCMD"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/officer/o9)
 	sort_order = 9
 
- /datum/mil_rank/arm/o10
+/datum/mil_rank/arm/o10
 	name = "High Commandant of the Federation Armsmen"
 	name_short = "HCMDFA"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/arm/officer/o10)
