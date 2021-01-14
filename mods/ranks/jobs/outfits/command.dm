@@ -27,7 +27,7 @@
 	pda_type = /obj/item/modular_computer/pda/heads/hop
 
 /decl/hierarchy/outfit/job/tradeship/mate/armsmen
-	name = TRADESHIP_OUTFIT_JOB_NAME("Tradehouse First Mate")
+	name = TRADESHIP_OUTFIT_JOB_NAME("Tradehouse First Mate - Armsmen")
 	uniform = /obj/item/clothing/under/armsmen/utility
 	shoes = /obj/item/clothing/shoes/jackboots
 	glasses = /obj/item/clothing/glasses/sunglasses/big
