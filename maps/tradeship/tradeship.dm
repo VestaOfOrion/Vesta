@@ -2,7 +2,7 @@
 
 	#include "../../mods/corporate/_corporate.dme"
 	#include "../../mods/ascent/_ascent.dme"
-	#include "../../mods/ranks/_ranks.dme"
+	#include "../../mods/military/_military.dme"
 
 	#include "../../mods/government/away_sites/icarus/icarus.dm"
 	#include "../../mods/government/ruins/ec_old_crash/ec_old_crash.dm"

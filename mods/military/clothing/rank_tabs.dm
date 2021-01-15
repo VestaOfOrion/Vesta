@@ -1,7 +1,7 @@
 /obj/item/clothing/accessory/solgov
 	name = "master solgov accessory"
-	icon = 'mods/ranks/icons/obj_accessories_uniform.dmi'
-	accessory_icons = list(slot_w_uniform_str = 'mods/ranks/icons/mob/onmob_accessories_uniform.dmi', slot_wear_suit_str = 'mods/ranks/icons/mob/onmob_accessories_uniform.dmi')
+	icon = 'mods/military/icons/obj_accessories_uniform.dmi'
+	accessory_icons = list(slot_w_uniform_str = 'mods/military/icons/mob/onmob_accessories_uniform.dmi', slot_wear_suit_str = 'mods/military/icons/mob/onmob_accessories_uniform.dmi')
 	w_class = ITEM_SIZE_TINY
 
 /*********

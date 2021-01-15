@@ -1,8 +1,8 @@
 /obj/item/clothing/under/armsmen
 	name = "master armsmen uniform"
 	desc = "You shouldn't be seeing this."
-	icon = 'mods/ranks/icons/obj_uniform_armsmen.dmi'
-	item_icons = list(slot_w_uniform_str = 'mods/ranks/icons/mob/onmob_uniform_armsmen.dmi')
+	icon = 'mods/military/icons/obj_uniform_armsmen.dmi'
+	item_icons = list(slot_w_uniform_str = 'mods/military/icons/mob/onmob_uniform_armsmen.dmi')
 	siemens_coefficient = 0.8
 	gender_icons = 1
 

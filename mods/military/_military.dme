@@ -1,15 +1,14 @@
-#ifndef MODPACK_RANKS
-#define MODPACK_RANKS
+#ifndef MODPACK_MILITARY
+#define MODPACK_MILITARY
 // Begin Includes
 
+#include "military.dm"
+
+#include "tradeship\tradeship_define.dm"
+#include "tradeship\tradeship_ranks.dm"
+#include "tradeship\tradeship_jobs.dm"
+
 #include "datums\uniforms.dm"
-
-#include "ranks.dm"
-#include "rank_tabs.dm"
-
-#include "tradeship_define.dm"
-#include "tradeship_ranks.dm"
-#include "tradeship_jobs.dm"
 
 #include "jobs\command.dm"
 #include "jobs\medical.dm"
@@ -18,7 +17,8 @@
 #include "jobs\outfits\_outfits.dm"
 #include "jobs\outfits\command.dm"
 
-//#include "uniform_vendor.dm"
+//#include "uniform_vendor.dm"// For later time when IDs are redefined
+#include "clothing\rank_tabs.dm"
 #include "clothing\armsmen-under.dm"
 
 // End Includes
